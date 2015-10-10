@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.socket.io/socket.io-1.3.7.js"></script>
+  <script src="elm.js"></script>
+  <style>
+    body {
+      background-color: black;
+    }
+
+    div.center {
+      margin: 0 auto;
+      width: 500px;
+    }
+  </style>
+</head>
+<body>
+  <div class="center">
+    <div id="radar"></div>
+  </div>
+  <script type="text/javascript" >
+    Elm.embed(Elm.Client, document.getElementById("radar"));
+  </script>
+</body>
+</html>
