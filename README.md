@@ -1,2 +1,3 @@
 # Demonstration
-https://www.youtube.com/watch?v=jSxQma0MEJI
+
+[![Demo](http://img.youtube.com/vi/jSxQma0MEJI/0.jpg)](http://www.youtube.com/watch?v=jSxQma0MEJI)
